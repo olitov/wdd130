@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/cssa?family=font-name&family=optional-2nd-font-name&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=font-name&family=optional-2nd-font-name&display=swap');
 
 body {
     font-family: var(--paragraph-font);
@@ -13,8 +13,8 @@ body {
     --accent1-color: #E5DCC5;
     --accent2-color: #4C4C47;
 
-    --heading-font: '______', serif;
-    --paragraph-font: '_______', serif
+    --heading-font: 'font-name', serif;
+    --paragraph-font: 'optional-2nd-font-name', serif
 
     --nav-background-color: #XXXXXX;
     --nav-link-color: #XXXXXX;
