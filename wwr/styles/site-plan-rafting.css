@@ -8,10 +8,10 @@ body {
 }
 
 :root {
-    --primary-color: #XXXXXX;
-    --secondary-color: #XXXXXX;
-    --accent1-color: #XXXXXX;
-    --accent2-color: #XXXXXX;
+    --primary-color: #848FA5;
+    --secondary-color: #C14953;
+    --accent1-color: #E5DCC5;
+    --accent2-color: #4C4C47;
 
     --heading-font: '______', serif;
     --paragraph-font: '_______', serif
