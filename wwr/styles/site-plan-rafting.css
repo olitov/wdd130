@@ -1,17 +1,16 @@
 
 @import url('https://fonts.googleapis.com/css2?family=font-name&family=optional-2nd-font-name&display=swap');
 
-body {
-    font-family: var(--paragraph-font);
+body {font-family: var(--paragraph-font);
     max-width: 960px;
     padding: 20px;
 }
 
 :root {
-    --primary-color: #848FA5;
-    --secondary-color: #C14953;
-    --accent1-color: #E5DCC5;
-    --accent2-color: #4C4C47;
+    --primary-color: #d0d53c;
+    --secondary-color: #911c26;
+    --accent1-color: #f2f3ed;
+    --accent2-color: #2f8fd4;
 
     --heading-font: 'font-name', serif;
     --paragraph-font: 'optional-2nd-font-name', serif
