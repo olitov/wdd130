@@ -10,15 +10,15 @@ body {font-family: var(--paragraph-font);
     --primary-color: #d0d53c;
     --secondary-color: #911c26;
     --accent1-color: #f2f3ed;
-    --accent2-color: #2f8fd4;
+    --accent2-color: #010a10;
 
     --heading-font: 'font-name', serif;
-    --paragraph-font: 'optional-2nd-font-name', serif
+    --paragraph-font: 'optional-2nd-font-name', serif;
 
-    --nav-background-color: #XXXXXX;
-    --nav-link-color: #XXXXXX;
-    --nav-hover-link-color: #XXXXXX;
-    --nav-hover-background-color: #XXXXXX;
+    --nav-background-color: #ffffff;
+    --nav-link-color: #3cc5cf;
+    --nav-hover-link-color: #e44834;
+    --nav-hover-background-color: #a028d7;
 }
 
 h1, h2, h3, h4, h5, h6 {
